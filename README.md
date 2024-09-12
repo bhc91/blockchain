@@ -11,4 +11,5 @@ Transactions: Represent the transfer of value between wallets, secured by digita
 Mining: The process of solving PoW to add new blocks to the chain, with miners being rewarded through a special coinbase transaction.
 
 This ensures decentralization, security, and immutability in the blockchain.
+
 ![My Logo](1424866-270329364.jpg)
