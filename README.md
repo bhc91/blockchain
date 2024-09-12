@@ -1,4 +1,4 @@
-A blockchain implementation involves creating a chain of blocks where each block contains transaction data, a timestamp, a hash of the block's contents, and the hash of the previous block. Key components include:
+This blockchain implementation involved creating a chain of blocks where each block contains transaction data, a timestamp, a hash of the block's contents, and the hash of the previous block. Key components include:
 
 SHA-256 Hashing: Used to generate unique, tamper-proof fingerprints for each block.
 Proof of Work (PoW): A consensus algorithm that requires miners to solve a computational puzzle by finding a valid nonce to produce a hash with a certain number of leading zeros.
